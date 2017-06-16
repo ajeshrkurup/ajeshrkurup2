@@ -1,0 +1,5 @@
+color1A: #13547a;
+color1B: #80d0c7;
+
+color2A: #649173;
+color2B: #DBD5A4;
